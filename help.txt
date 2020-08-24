@@ -1,0 +1,3 @@
+Learnt basic functionality of ncurses.h library using the following links :
+	http://tldp.org/HOWTO/NCURSES-Programming-HOWTO/
+	http://www.cs.ukzn.ac.za/~hughm/os/notes/ncurses.html
